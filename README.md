@@ -8,7 +8,7 @@ This project involves coding a C library called 'Libft', which involves numerous
 This project aims to help the student understand how these functions work by implementing them themselves and learning how to use them effectively. The creation of this library will be valuable for future C school assignments. 
 
 ## **Instructions**
-In order to execute the library 'Libft', make sure you are in the directory 'Milestone00' to be able the make use of the Makefile. A 'Makefile' automates the compilation process by creating an executable command. It optimizes the build time by only recompiling the specific source files (.c) that have been changed since the last compile moment by looking at the timestamps of the source files and comparing them to the resulting object files. 
+In order to execute the library 'Libft' and make use of the Makefile, make sure you are in the root direcotory. A 'Makefile' automates the compilation process by creating an executable command. It optimizes the build time by only recompiling the specific source files (.c) that have been changed since the last compile time by looking at the timestamps of the source files and comparing them to the resulting object files. 
 
 *Chose one of the following commands to type into the terminal:*
 
