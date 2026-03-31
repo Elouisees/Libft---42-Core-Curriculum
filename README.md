@@ -62,7 +62,7 @@ mycodeschool is an educational initiative. Our aim is to present some core conce
 **Bro Code** https://www.youtube.com/@BroCodez  
 Short vidoes on different subjects around the programming language C.  
 **thenewboston** https://www.youtube.com/@thenewboston  
-Videos around all kinds of computer programming, both back-end and front-end, some videos might be a bit outdates.  
+Videos around all kinds of computer programming, both back-end and front-end, some videos might be a bit outdated.  
 
 ### **AI Usage**  
 During the build of this project, Generative Artificial Intelligence chatbots 'ChatGPT' and 'Claude' have been used. **No copying of code** at any time during the build of this project has taken place. When making use of GAI, the chatbots had been clearly instructed to ask critical questions, be strict and **never give away the answers under any circumstances**.  
